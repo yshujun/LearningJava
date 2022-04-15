@@ -6,5 +6,6 @@ public class App {
         KeyWords.main();
         Const.main();
         Var.main();
+        DataType.main();
     }
 }
