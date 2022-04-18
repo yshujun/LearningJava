@@ -7,5 +7,6 @@ public class App {
         Const.main();
         Var.main();
         DataType.main();
+        Operator.main();
     }
 }
