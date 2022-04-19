@@ -8,5 +8,7 @@ public class App {
         Var.main();
         DataType.main();
         Operator.main();
+        IfTest.main();
+        SwitchTest.main();
     }
 }
