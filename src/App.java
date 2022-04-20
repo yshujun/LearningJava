@@ -10,5 +10,10 @@ public class App {
         Operator.main();
         IfTest.main();
         SwitchTest.main();
+        ForTest.main();
+        While.main();
+        DoWhile.main();
+        Break.main();
+        Continue.main();
     }
 }
